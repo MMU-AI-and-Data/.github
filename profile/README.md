@@ -6,6 +6,9 @@ The AI and Data Society at Manchester Metropolitan University brings together li
 
 Manchester Metropolitan students can register through the [Clubs and Societies](https://www.theunionmmu.org/groups/ai-and-data-society) page on the Union website. Individuals outside of the university can email mmuaianddata@gmail.com to register interest.
 
+
+<a href="https://www.theunionmmu.org/groups/ai-and-data-society" target="_blank">Clubs and Societies</a>
+
 ## Code of Conduct
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for MMU AI and Data.
