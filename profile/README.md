@@ -12,7 +12,7 @@ MMU AI and Data is dedicated to providing a harassment-free community for everyo
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-Adapted from [NUMFOCUS Code of Conduct](https://numfocus.org/code-of-conduct)
+Adapted from [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct)
 
 
 <!--
